@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-02-07T15:08:08.183-06:00
-  initializedAtString: 2019-02-07T15:08:08.183-06:00
+  lastUpdatedAtString: 2019-02-07T16:27:34.262-06:00
+  initializedAtString: 2019-02-07T16:27:34.262-06:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/BagboBillbins/Unity-3D-Tutorials.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/BagboBillbins/Unity-3D-Tutorials.git
+    trackingBranch: master
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/BagboBillbins/Unity-3D-Tutorials.git
   currentHead: 
